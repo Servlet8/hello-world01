@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <p>爱越越</p>
+      <p>爱越越鸭</p>
   </div>
 </template>
 
